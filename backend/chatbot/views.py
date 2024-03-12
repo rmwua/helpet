@@ -7,8 +7,6 @@ from chatbot.models import Conversation
 
 import chatbot.serializers as serializers
 
-openai.api_key = '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'
-openai.organization = 'org-QZawtKMBQjFa4UhjvnVDINof'
 
 # Create your views here.
 
